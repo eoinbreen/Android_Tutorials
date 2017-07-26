@@ -1,0 +1,13 @@
+#Tue Jul 25 21:47:45 BST 2017
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.3=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_cd0b0cf766367e2d1ca9259cbc716e3a78a08639
+base.2=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_b2275f63185b4e0fbff9ebe71324a704b077c146
+base.1=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_74699b6d7eede55e6caa8a9cfc79bf01db49ff9a
+base.0=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e48f4c56a3a3b5ce5f9d0a1a0cfcd8e02f7d91d3
+file.3=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_cd0b0cf766367e2d1ca9259cbc716e3a78a08639\\classes.dex
+file.2=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_b2275f63185b4e0fbff9ebe71324a704b077c146\\classes.dex
+file.1=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_74699b6d7eede55e6caa8a9cfc79bf01db49ff9a\\classes.dex
+file.0=C\:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e48f4c56a3a3b5ce5f9d0a1a0cfcd8e02f7d91d3\\classes.dex

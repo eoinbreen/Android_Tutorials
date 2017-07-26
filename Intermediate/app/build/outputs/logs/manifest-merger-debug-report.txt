@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Eoin\.android\build-cache\4239d6b44a38659a806fb40e0e1c89aec052056f\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Eoin\.android\build-cache\47bb112e7af0671271f283da8cb8f21a9fc09381\output\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:13:5-93:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Eoin\.android\build-cache\4239d6b44a38659a806fb40e0e1c89aec052056f\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Eoin\.android\build-cache\47bb112e7af0671271f283da8cb8f21a9fc09381\output\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.mybringback.intermediate.Menu
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:20:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.mybringback.intermediate.SaveToDevice
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:29:11-37:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.SAVETOSD
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:32:13-36:29
+action#com.mybringback.intermediate.SAVETOSD
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:33:25-77
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:35:27-73
+activity#com.mybringback.intermediate.InternalStorage
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:39:10-47:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:40:13-44
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.INTERNALSTORAGE
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:42:13-46:29
+action#com.mybringback.intermediate.INTERNALSTORAGE
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:43:17-87
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:43:25-84
+activity#com.mybringback.intermediate.Reading
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:49:11-57:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:50:13-36
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.READING
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:52:13-56:29
+action#com.mybringback.intermediate.READING
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:53:25-76
+activity#com.mybringback.intermediate.Settings
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:59:10-68:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:60:13-37
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.SETTINGS
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:62:13-67:29
+action#com.mybringback.intermediate.SETTINGS
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:63:17-80
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:63:25-77
+activity#com.mybringback.intermediate.MainActivity
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:73:13-41
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.MAINACTIVITY
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:75:13-79:29
+action#com.mybringback.intermediate.MAINACTIVITY
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:76:17-84
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:76:25-81
+activity#com.mybringback.intermediate.Numbers
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:82:10-90:20
+	android:label
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:84:13-45
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:83:13-36
+intent-filter#android.intent.category.DEFAULT+com.mybringback.intermediate.NUMBERS
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:85:13-89:29
+action#com.mybringback.intermediate.NUMBERS
+ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:86:17-79
+	android:name
+		ADDED from C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\src\main\AndroidManifest.xml:86:25-76

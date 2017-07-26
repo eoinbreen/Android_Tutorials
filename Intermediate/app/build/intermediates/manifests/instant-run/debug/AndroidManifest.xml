@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mybringback.intermediate"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.mybringback.intermediate.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.SaveToDevice"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.SAVETOSD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.InternalStorage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.INTERNALSTORAGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.Reading"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.READING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.Settings"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.SETTINGS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mybringback.intermediate.Numbers"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.mybringback.intermediate.NUMBERS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.mybringback.intermediate.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

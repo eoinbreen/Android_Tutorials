@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\.android\build-cache\4239d6b44a38659a806fb40e0e1c89aec052056f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e48f4c56a3a3b5ce5f9d0a1a0cfcd8e02f7d91d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_cd0b0cf766367e2d1ca9259cbc716e3a78a08639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\.android\build-cache\47bb112e7af0671271f283da8cb8f21a9fc09381\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_b2275f63185b4e0fbff9ebe71324a704b077c146\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c8974c86b4d5e15b7e06b6d6156e74eb76119105">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_83c5a067006f77ea1e01cd193783633e92142b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_859c94fd28b2ad46f046dae192e8424825219acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eoin\.android\build-cache\47bb112e7af0671271f283da8cb8f21a9fc09381\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Eoin\AndroidStudioProjects\Intermediate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74699b6d7eede55e6caa8a9cfc79bf01db49ff9a\classes.dex" />
+    </item>
+
+</items>

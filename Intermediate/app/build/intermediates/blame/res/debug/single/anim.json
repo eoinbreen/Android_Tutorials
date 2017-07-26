@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eoin\\AndroidStudioProjects\\Intermediate\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Eoin\\.android\\build-cache\\4239d6b44a38659a806fb40e0e1c89aec052056f\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]
