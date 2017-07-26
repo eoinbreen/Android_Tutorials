@@ -48,17 +48,4 @@ This is a follow on from the basic project that is described above, and it is si
 This project thought me a lot more about making aps and I think that it will help me make my own apps in the future.
 
 
-**api:** http://localhost:8080/api/getRandomBeer
 
-**home page:**  http://localhost:8080/index.html
-
-
-## How I could make this app better in the future
-
-- Add a MySQL database to replace the in memory HSQL database. 
-
-- Attempted to add image of each beer bottle to the front end, continuing to work on this.
-
-- Add more to the database as it is very small now. 
-
-- Add to the API with more features, eg. getbeerbyname
